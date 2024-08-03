@@ -42,7 +42,6 @@ public class Main {
                 enKucuk = a;
             }
         }
-
         System.out.println("Sayılar büyükten küçüğe: " + enBuyuk + " > " + ortanca + " > " + enKucuk);
     }
 }
