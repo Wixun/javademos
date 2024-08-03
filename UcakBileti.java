@@ -39,6 +39,5 @@ public class Main {
         } else {
             System.out.println("Girdiginiz degerler eksik veya yanlis lutfen tekrar deneyiniz!");
         }
-
     }
 }
