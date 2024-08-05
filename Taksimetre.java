@@ -14,6 +14,8 @@ public class Main {
         if (tutar < 20) {
             tutar = 20;
         }
+        // Ustteki if bloğu yerine kullanılabilir. =>  tutar = (tutar < 20) ? 20 : tutar;   
+           
         System.out.println("Taksimetre Ucretiniz: " + tutar);
     }
 }
